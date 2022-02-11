@@ -4,7 +4,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF5733&size=25&center=false&lines=Explorer;Full+Stack+Web+Developer...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF5733&size=25&center=false&lines=Explorer...;Full+Stack+Web+Developer...)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on **projects built on MERN stack**
 
