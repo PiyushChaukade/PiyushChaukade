@@ -18,6 +18,7 @@
 
 - ⚡ Fun fact: **There are 2 rules to success. First, never tell anyone everything you know.**
 
+- 📄 Curriculum Vitae [Click here](https://drive.google.com/file/d/15EkQS7VMkoK6Ed-YT2ir59u4pKH9NjPu/view?usp=sharing)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" gap="10px"> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> 
