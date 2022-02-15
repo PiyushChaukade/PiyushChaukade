@@ -48,6 +48,7 @@
 <a href="https://www.instagram.com/piyush_chaukade_21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="PiyushChaukade" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/piyushchaukade21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="PiyushChaukade" height="30" width="40" /></a>
 <a href="https://leetcode.com/PiyushChaukade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="PiyushChaukade" height="30" width="40" /></a>
+  <a href="https://medium.com/@piyushchaukade21" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@piyushchaukade21" height="30" width="40" /></a>
 </p>
 
 
