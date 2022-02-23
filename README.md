@@ -58,7 +58,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tambegaurav&show_icons=true&locale=en&layout=compact" alt="PiyushChaukade" /></p> -->
 
 <br/>
- <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/PiyushChaukade"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PiyushChaukade&custom_title=PiyushChaukade's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+
