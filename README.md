@@ -1,6 +1,4 @@
 <h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Piyush Chaukade</h1>
-<h3 align="center">A Enthusiastic Web Designer</h3>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF5733&size=25&center=false&lines=Explorer...;Full+Stack+Web+Developer...)](https://git.io/typing-svg)
 
 Full Stack Developer with 2yr+ of experience in the IT industry with proficiency in all facets of front-end and MERN stack technologies. Eager to contribute creative and robust technical skills to the working environment
